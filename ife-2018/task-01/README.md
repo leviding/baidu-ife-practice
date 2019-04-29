@@ -1,10 +1,10 @@
-# Task-02 of Baidu IFE 2018
+# Task-01 of Baidu IFE 2018
 
 ## A simple resume
 
-- Online Preview: [Click here](https://dingxuewen.com/baidu-ife-practice/ife-2018/task-02/a-simple-resume.html)
+- Online Preview: [Click here](https://dingxuewen.com/baidu-ife-practice/ife-2018/task-01/a-simple-resume.html)
 - Link of the task: [Click here](http://ife.baidu.com/course/detail/id/36)
-- The Source Code: [Click here](https://github.com/leviding/baidu-ife-practice/tree/master/ife-2018/task-02)
+- The Source Code: [Click here](https://github.com/leviding/baidu-ife-practice/tree/master/ife-2018/task-01)
 
 ## 复习要点
 

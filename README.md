@@ -2,7 +2,7 @@
 
 ### IFE 2018
 
-1. [Task-02: A simple resume](./ife-2018/task-02)
+1. [Task-01: A simple resume](./ife-2018/task-01)
 
 ### Support or Contact
 
